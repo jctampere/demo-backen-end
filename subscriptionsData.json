@@ -5,7 +5,7 @@
 			{
 				"username": "testuseraccount1",
 				"mobile": "12345678",
-				"activatedSince": "",
+				"activatedSince": "Mar.01,2010 15:45:17",
 				"activatedEnd": "",
 				"subscriptionType": "mobile",
 				"name": "DNA Super 4G Rajaton",
@@ -34,7 +34,7 @@
 			{
 				"username": "testuseraccount1",
 				"mobile": "12345678",
-				"activatedSince": "",
+				"activatedSince": "Mar.01,2010 15:45:17",
 				"activatedEnd": "",
 				"subscriptionType": "mobile",
 					"name": "DNA Nopea 4G Rajaton",
@@ -64,8 +64,8 @@
 			{
 				"username": "testuseraccount1",
 				"mobile": "",
-				"activatedSince": "",
-				"activatedEnd": "",
+				"activatedSince": "Mar.01,2010 15:45:17",
+				"activatedEnd": "Mar.01,2017 15:45:17",
 				"subscriptionType": "mobile",
 				"sortPrice": "25.9",
 
@@ -93,7 +93,7 @@
 			{
 				"username": "testuseraccount1",
 				"mobile": "",
-				"activatedSince": "",
+				"activatedSince": "Mar.01,2010 15:45:17",
 				"activatedEnd": "",
 				"subscriptionType": "mobile",
 					"name": "DNA Nopea 4G Jämpti",
@@ -123,7 +123,7 @@
 			{
 				"username": "testuseraccount1",
 				"mobile": "",
-				"activatedSince": "",
+				"activatedSince": "Mar.01,2010 15:45:17",
 				"activatedEnd": "",
 				"subscriptionType": "mobile",
 					"name": "DNA Rajaton",
